@@ -5,7 +5,7 @@ The right property for a client is not only the one that falls within their budg
 
 This project with leverage Foursquare location and venue data to find the neighborhoods that best match a client’s preferences for a real estate agency in Toronto.
 
-_**The audience:** Toronto real estate agency and their clients._
-_**The problem:** Finding the right neighborhood for their clients._
+_**The audience:** Toronto real estate agency and their clients._</br>
+_**The problem:** Finding the right neighborhood for their clients._</br>
 _**Data used to solve the problem:** Leveraging Foursquare location and venue data to find the neighborhoods that match their client’s preferences._
 
