@@ -3,7 +3,7 @@ Toronto is the capital of the province of Ontario and one of the most densely po
  
 The right property for a client is not only the one that falls within their budget, but it also should be in a neighborhood that matches the client’s preferences. For example, if a client does not like noisy areas and has a family with young children, he/she would probably want a neighborhood without many bars or nightclubs around and lots of public parks and family restaurants instead. 
 
-This project with leverage Foursquare location and venue data to find the neighborhoods that best match a client’s preferences for a real estate agency in Toronto.
+This project will leverage Foursquare location and venue data to find the neighborhoods that best match a client’s preferences for a real estate agency in Toronto.
 
 _**The audience:** Toronto real estate agency and their clients._</br>
 _**The problem:** Finding the right neighborhood for their clients._</br>
